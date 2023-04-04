@@ -1,0 +1,4 @@
+W-pula
+A-anda para esquerda
+S-se agacha
+D-anda para direita
